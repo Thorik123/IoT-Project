@@ -8,5 +8,7 @@
 
 - The following are several IoT projects that I have practiced and were successful, some of which use ESP8266 and ESP32 modules. These projects are only basic and need further development. Please study it as reference material for the future. I plan to continue adding examples of new projects in the future through this repository.
 
+---
+
 [Suka minum kopi?](https://www.buymeacoffee.com/thoriktk)
 [Like drinking coffee?](https://www.buymeacoffee.com/thoriktk)
