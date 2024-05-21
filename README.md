@@ -10,5 +10,6 @@
 
 ---
 
-[Suka minum kopi?](https://www.buymeacoffee.com/thoriktk)
-[Like drinking coffee?](https://www.buymeacoffee.com/thoriktk)
+#### [Suka minum kopi?](https://www.buymeacoffee.com/thoriktk)
+
+#### [Like drinking coffee?](https://www.buymeacoffee.com/thoriktk)
